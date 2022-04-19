@@ -53,7 +53,7 @@ ${tz} Owner has the right to give warnings to sanctions against users who violat
 ${tz} Violating the rules above can get sanctions such as banned/block user
 ▬▭▬▭▬▭▬▭▬▭▬▭
 ☞ *THX•TO* [ 6 ]
-${tz} *${ownername}*
+${tz} *AL_FASBOTZ*
 ${tz} *NAYLA [ OTHER ]*
 ${tz} *LORD RIYAN*
 ${tz} *LOLKILLERS*
